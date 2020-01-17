@@ -1,0 +1,133 @@
+Plastic Film
+#1 Plastic
+#2 Plastic
+#3 Plastic
+#4 Plastic
+#5 Plastic
+#6 Plastic
+#6 Plastic Peanuts
+#7 Plastic
+Blue Glass Containers
+Brown Glass Containers
+Green Glass Containers
+Clear Glass Containers
+Alkaline Batteries
+Button Cell Batteries
+Lead-acid Batteries - Non-automotive
+Lithium Batteries
+Lithium-ion Batteries
+Nickel-cadmium Batteries
+Nickel-metal Hydride Batteries
+Nickel-zinc Batteries
+Silver-oxide Batteries
+Car Batteries
+Zinc-air Batteries
+Zinc-carbon Batteries
+Aerosol Cans
+Aluminum Cans
+Aluminum Foil
+Aluminum Trays
+
+Ammunition
+Adhesives / Tape
+Rubber / Tires
+Clothing / Fabric / Linens
+Mattresses
+Shoes
+Tennis Balls
+Vinyl Records
+Yoga Mats
+
+Synthetic Cork
+Six-pack Rings
+CDs / DVDs / Disks
+CFLs
+Cables
+String Lights
+Cassette / Video Tapes
+Cell Phones / Tablets
+Cigarettes
+Compostable Plastics
+
+Cookware
+Corks
+Crayons
+Drink Boxes
+Drink Pouches
+Electronics / Computers
+Explosives
+Eyeglasses
+Glue Sticks
+Hair
+LCD Displays
+Medical Sharps
+Medication Containers
+Medications
+Metal Clothes Hangers
+Non-Organic Food Waste
+Organic Food Waste
+Paper Labels / Paper Adhesives
+Envelopes
+Printer Ink / Toner Cartridges
+Mixed Paper / Books / Newspaper / Magazines
+Multi-wall Paper Bags
+Paperboard
+Pizza Boxes
+Corrugated Cardboard
+Toothbrushes
+Toothpaste Tubes
+
+Cooking Oil
+Fertilizers
+Fungicides / Herbicides / Insecticides / Pesticides
+Household Cleaners / Chemicals
+Paints / Thinners / Solvents / Varnish / Lacquer
+Gasoline
+Motor Oil
+Kerosene
+Lighter Fluid
+
+Auto Parts
+Barbeque Grills
+Bicycles
+Brick
+Brush / Branches / Hay / Leaves / Yard Waste / Grass Clippings
+Carpet / Carpet Padding
+Ceiling Tiles
+Ceramic Tile
+Christmas Trees
+Ferrous Metals
+Fluorescent Tubes
+Fire Extinguishers
+Gas Cylinders
+HHW
+Halogen Bulbs
+Hardware
+Furniture
+Incandescent Lightbulbs
+Items Containing Mercury / Thermostats
+Light Fixtures
+Neon Lights
+Ornaments
+Windows
+Manure
+Metal Paint Cans
+Nonferrous Metals
+Oil Filters
+Power Tools
+Propane Tanks
+Porcelain Products
+Small Appliances
+Large Appliances
+Smoke Detectors
+Steel Cans / Lids
+Water Filters
+Shingles
+Sawdust
+Sand
+Stone
+Linoleum
+Tile
+Pallets
+Wood / Lumber
+Drywall

@@ -1,0 +1,125 @@
+#1 Plastic Bags
+#1 Plastic Beverage Bottles
+#1 Plastic Clamshells
+#1 Plastic Film
+#1 Plastic Non-Beverage Bottles
+#1 Plastic Trays
+#1 Rigid Plastics
+#2 Plastic Bags
+#2 Plastic Bottles
+#2 Plastic Caps
+#2 Plastic Clamshells
+#2 Plastic Film
+#2 Plastic Jugs - Clear
+#2 Plastic Jugs - Colored
+#2 Rigid Plastics
+#3 Plastic Bags
+#3 Plastic Bottles
+#3 Plastic Film
+#3 Rigid Plastics
+#4 Flexible Plastics
+#4 Plastic Bags
+#4 Plastic Bottles
+#4 Plastic Film
+#4 Rigid Plastics
+#5 Plastic Bags
+#5 Plastic Bottles
+#5 Plastic Caps
+#5 Plastic Clamshells
+#5 Plastic Cups
+#5 Plastic Film
+#5 Rigid Plastics
+#6 Plastic - Expanded
+#6 Plastic Bags
+#6 Plastic Bottles
+#6 Plastic Clamshells - Expanded
+#6 Plastic Cups
+#6 Plastic Cups - Expanded
+#6 Plastic Film
+#6 Plastic Peanuts
+#6 Rigid Plastics
+#7 Plastic Bags
+#7 Plastic Bottles
+#7 Plastic Film
+#7 Rigid Plastics
+Aerosol Cans - Full
+Alkaline Batteries
+Aluminum Beverage Cans
+Aluminum Foil
+Aluminum Food Cans
+Aluminum Trays
+Ammunition
+Blue Glass Containers
+Brick
+Brown Glass Containers
+Button Cell Batteries
+CDs
+CFLs
+Cables
+Candy Wrappers
+Car Batteries
+Carpet
+Cassette Tapes
+Cell Phones
+Chip Bags
+Cigarettes
+Clear Glass Containers
+Compostable Plastics
+Construction Materials
+Cooking Oil
+Cookware
+Corks
+Corrugated Cardboard
+Crayons
+Envelopes
+Eyeglasses
+Fabric
+Fire Extinguishers
+Floppy Disks
+Fluorescent Tubes
+Gas Cylinders
+Green Glass Containers
+HHW
+Hair
+Halogen Bulbs
+Hardware
+Home Electronics
+Household Furniture
+Incandescent Lightbulbs
+Inkjet Cartridges
+Lithium Batteries
+Lithium-ion Batteries
+Mattresses
+Medication Containers
+Medications
+Mercury Thermostats
+Mixed Paper
+Multi-wall Paper Bags
+Neon Lights
+Nickel-cadmium Batteries
+Nickel-metal Hydride Batteries
+Nickel-zinc Batteries
+Oil Filters
+Organic Food Waste
+Pallets
+Paper Cups
+Paper Labels
+Paperboard
+Pizza Boxes
+Porcelain Products
+Propane Tanks
+Shoes
+Silver-oxide Batteries
+Six-pack Rings
+Small Appliances
+Steel Cans
+Stone
+Tires
+Toothbrushes
+Toothpaste Tubes
+Water Filters
+Windows
+Wood
+Yard Waste
+Zinc-air Batteries
+Zinc-carbon Batteries
