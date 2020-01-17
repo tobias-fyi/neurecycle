@@ -20,6 +20,9 @@ matplotlib = "*"
 tensorflow = "*"
 keras = "*"
 opencv-python = "*"
+pillow = "*"
+bs4 = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
