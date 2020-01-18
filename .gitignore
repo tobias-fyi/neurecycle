@@ -1,5 +1,5 @@
 # ====== Project-Specific ====== #
-
+*.h5
 
 # === Private Directories === #
 *_/
