@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Server 3</title><g id="Server_3" data-name="Server 3"><path d="M21,16H3a2,2,0,0,0-2,2v3a2,2,0,0,0,2,2H21a2,2,0,0,0,2-2V18A2,2,0,0,0,21,16ZM5,20.5a.5.5,0,0,1-1,0v-2a.5.5,0,0,1,1,0Zm2,0a.5.5,0,0,1-1,0v-2a.5.5,0,0,1,1,0Zm2,0a.5.5,0,0,1-1,0v-2a.5.5,0,0,1,1,0Zm7,0a1,1,0,1,1,1-1A1,1,0,0,1,16,20.5Zm3,0a1,1,0,1,1,1-1A1,1,0,0,1,19,20.5Z" style="fill:#303c42"/><path d="M22.64,8.87,18.51,2.18A2.48,2.48,0,0,0,16.39,1H7.61A2.48,2.48,0,0,0,5.49,2.18L1.36,8.87A2.22,2.22,0,0,0,1,10v3a2,2,0,0,0,2,2H21a2,2,0,0,0,2-2V10A2,2,0,0,0,22.64,8.87ZM7.19,3.24A.5.5,0,0,1,7.61,3h8.77a.49.49,0,0,1,.43.24L19.75,8H4.25ZM5,13a.5.5,0,0,1-1,0V10.5a.5.5,0,0,1,1,0Zm2,0a.5.5,0,0,1-1,0V10.5a.5.5,0,0,1,1,0Zm2,0a.5.5,0,0,1-1,0V10.5a.5.5,0,0,1,1,0Zm7-.5a1,1,0,1,1,1-1A1,1,0,0,1,16,12.5Zm3,0a1,1,0,1,1,1-1A1,1,0,0,1,19,12.5Z" style="fill:#303c42"/></g>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="server; database; data; storage; tower; 3" dc:description="server; database; data; storage; tower; 3" dc:publisher="Iconscout" dc:date="2017-02-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
