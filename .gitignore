@@ -1,5 +1,6 @@
 # ====== Project-Specific ====== #
 *.h5
+.idea/
 
 # === Private Directories === #
 *_/

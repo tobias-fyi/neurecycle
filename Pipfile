@@ -23,6 +23,7 @@ opencv-python = "*"
 pillow = "*"
 bs4 = "*"
 requests = "*"
+pytrends = "*"
 
 [requires]
 python_version = "3.7"

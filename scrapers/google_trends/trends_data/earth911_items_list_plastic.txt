@@ -1,0 +1,294 @@
+#1 Plastic
+#2 Plastic
+#3 Plastic
+#4 Plastic
+#5 Plastic
+#6 Plastic
+#7 Plastic
+Acids
+Adhesives
+Adult Toys
+Aerosol Cans - Full
+Air Conditioners
+Alkaline Batteries
+Aluminum Beverage Cans
+Aluminum Foil
+Aluminum Food Cans
+Aluminum Pie Plates
+Aluminum Trays
+Ammunition
+Antifreeze
+Arts and Crafts Supplies
+Asbestos
+Asphalt
+Audio Equipment
+Auto Bodies
+Auto Parts
+Baby Products
+Barbeque Grills
+Bicycles
+Bike Tires
+Blu-Ray Players
+Blue Glass Beverage Containers
+Blue Glass Containers
+Boomboxes
+Brake Fluid
+Branches
+Brick
+Brown Glass Beverage Containers
+Brown Glass Containers
+Brush
+Button Cell Batteries
+CD Cases
+CD Players
+CDs
+CFLs
+CRT Computer Monitors
+CRT Televisions
+Cables
+Calculators
+Candy Wrappers
+Car Batteries
+Car Fluids
+Carpet
+Carpet Padding
+Cassette Players
+Cassette Tapes
+Ceiling Tiles
+Cell Phone Accessories
+Cell Phones
+Ceramic Tile
+Chemistry Sets
+Chip Bags
+Christmas Trees
+Cigarettes
+Clear Glass Beverage Containers
+Clear Glass Containers
+Clothing
+Compostable Plastics
+Computer Peripherals - External
+Computer Peripherals - Internal
+Concrete
+Construction Debris
+Construction Materials
+Contaminated Soil
+Contaminated Wood
+Controlled Substances
+Cooking Oil
+Cookware
+Corks
+Corrugated Cardboard
+Crayons
+Curling Irons
+DVD Players
+DVDs
+Dehumidifiers
+Desktop Computers
+Digital Cameras
+Dirt
+Doors
+Drink Boxes
+Drink Pouches
+Electronic Servers
+Engine Degreasers
+Envelopes
+Exit Signs
+Explosives
+Eyeglasses
+Fabric
+Ferrous Metals
+Fertilizers
+Fire Extinguishers
+Flip-Flops
+Floppy Disks
+Fluorescent Tubes
+Freezers
+Fungicides
+GPS Systems
+Game Consoles
+Garden Tools
+Gas Cylinders
+Gas/Oil Mixture
+Gasoline
+Gift Bags
+Glue Sticks
+Grass Clippings
+Green Glass Beverage Containers
+Green Glass Containers
+Gypsum Drywall
+HHW
+Hair
+Hair Dye
+Hair Spray
+Halogen Bulbs
+Hard Drives
+Hardware
+Hay
+Heaters
+Herbicides
+Holiday Greens
+Home Electronics
+Household Cleaners
+Household Furniture
+Hoverboards
+Humidifiers
+Hydraulic Fluid
+Incandescent Lightbulbs
+Inkjet Cartridges
+Innertubes
+Insecticides
+Items Containing Mercury
+Kerosene
+LCD Computer Monitors
+LCD Televisions
+Lacquer
+Laptop Computers
+Latex Foam Pillows
+Latex Paint
+Lead Paint Chips
+Lead-acid Batteries - Non-automotive
+Leaves
+Lice Shampoo
+Light Fixtures
+Lighter Fluid
+Lighting Ballasts
+Linens
+Linoleum
+Lithium Batteries
+Lithium-ion Batteries
+Lumber
+MP3 Players
+Magazines
+Manure
+Marine Batteries
+Mattresses
+Medical Equipment - Handheld
+Medical Equipment - Large
+Medical Sharps
+Medication Containers
+Medications
+Mercury Thermostats
+Metal Clothes Hangers
+Metal Paint Cans
+Metal Tags
+Microwaves
+Mixed Paper
+Motor Oil
+Motor Oil Containers
+Multi-wall Paper Bags
+Musical Instruments - Metal
+Musical Instruments - Non-metal
+Nail Polish
+Nail Polish Removers
+Neon Lights
+Newspaper
+Nickel-cadmium Batteries
+Nickel-metal Hydride Batteries
+Nickel-zinc Batteries
+Non-Organic Food Waste
+Nonferrous Metals
+Office Furniture
+Office Machines
+Office Paper
+Office Supplies
+Oil Filters
+Oil-Based Paint
+Organic Food Waste
+Ornaments
+Pagers
+Paint Strippers
+Paint Thinners
+Pallets
+Paper Cups
+Paper Labels
+Paper Shredders
+Paper Sleeves
+Paperback Books
+Paperboard
+Perfumes
+Pesticide Containers
+Pesticides
+Phone Books
+Photographic Chemicals
+Pizza Boxes
+Plastic Bottle Accessories
+Plastic Buckets
+Plastic Cards
+Plastic Egg Cartons
+Plastic Furniture
+Plastic Packing Materials
+Plastic Paint Cans
+Plastic Plant Materials
+Plastic Playsets
+Pool Chemicals
+Porcelain Products
+Power Steering Fluid
+Power Tools
+Printers
+Projectors
+Propane Tanks
+Radiators
+Receivers
+Record Players
+Refrigerators
+Road Flares
+Roofing Materials
+Sand
+Sawdust
+Scanners
+Sealers
+Shingles
+Shoes
+Silver-oxide Batteries
+Six-pack Rings
+Small Appliances
+Smoke Detectors
+Solvents
+Sporting Goods
+Steel Cans
+Steel Lids
+Stone
+String Lights
+Stumps
+Surfboards
+Synthetic Cork
+Tablets
+Telephones
+Television Accessories
+Tennis Balls
+Tile
+Tires
+Toasters
+Toner Cartridges
+Tools
+Toothbrushes
+Toothpaste Tubes
+Toys
+Transmission Fluid
+Trophies
+Truck Tires
+Two-Way Radios
+Typewriters
+Tyvek Envelopes
+VCRs
+Vacuum Cleaners
+Varnish
+Vehicles
+Video Game Cartridges
+Video Game Peripherals
+Video Tapes
+Vinyl Records
+Washer/Dryers
+Water Filters
+Weeds
+Wet-strength Paperboard
+Windows
+Wood
+Wood Chips
+Wood Furnishings
+Wood Stains
+X-rays
+Yard Waste
+Yoga Mats
+Zinc-air Batteries
+Zinc-carbon Batteries
