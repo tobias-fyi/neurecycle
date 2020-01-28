@@ -2,6 +2,9 @@
 *.h5
 .idea/
 
+# === Team Github Repos === #
+Recycle-This-ds/
+
 # === Private Directories === #
 *_/
 

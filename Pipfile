@@ -24,6 +24,8 @@ pillow = "*"
 bs4 = "*"
 requests = "*"
 pytrends = "*"
+seaborn = "*"
+pyjanitor = "*"
 
 [requires]
 python_version = "3.7"
