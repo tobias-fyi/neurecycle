@@ -21,11 +21,12 @@ tensorflow = "*"
 keras = "*"
 opencv-python = "*"
 pillow = "*"
-bs4 = "*"
 requests = "*"
 pytrends = "*"
 seaborn = "*"
 pyjanitor = "*"
+torch = "*"
+torchvision = "*"
 
 [requires]
 python_version = "3.7"
