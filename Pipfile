@@ -27,6 +27,7 @@ seaborn = "*"
 pyjanitor = "*"
 torch = "*"
 torchvision = "*"
+awscli = "*"
 
 [requires]
 python_version = "3.7"
